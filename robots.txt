@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /js/private-tracker.js
+Disallow: /data/private/
+
+Sitemap: https://darulsuffahacademy.com/sitemap.xml
